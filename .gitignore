@@ -5,3 +5,6 @@
 **/.terraform.tfstate.lock.info
 evaluation_report*
 .claude/*
+.aoneci/*
+.qwenignore
+MIGRATION.md
